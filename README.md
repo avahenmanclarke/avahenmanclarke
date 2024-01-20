@@ -12,5 +12,5 @@ Hello, I'm Ava :slightly_smiling_face:
 - :telescope: Actively seeking opportunities to learn, collaborate and prove myself in a professional environment
 - :mortar_board: Class of 2025
 - :memo: I'm currently working on a few different projects which I will share here soon!
-- :handshake: Let's connect! Here's my <a href="linkedin.com/ava-henman-clarke">LinkedIn</a> !
+- :handshake: Let's connect! Here's my <a href="linkedin.com/in/ava-henman-clarke">LinkedIn</a> !
 
